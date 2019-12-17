@@ -1,5 +1,5 @@
-#include <Outliner.hh>
 #include <rose.h>
+#include <Outliner.hh>
 #include <stdio.h>
 
 using namespace SageInterface;
