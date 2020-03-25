@@ -99,6 +99,6 @@ int main(int argc, char **argv) {
         insertStatement(main, funcCopy, false, false);
       },
       "[function cloning]", project);
-
-  return 0;
+  
+  return backend(project);
 }
